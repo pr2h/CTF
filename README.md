@@ -1,2 +1,2 @@
 # CTF
-Capture the Flag Applications for Fun!
+Capture the Flag Applications for Fun
