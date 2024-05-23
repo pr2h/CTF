@@ -4,7 +4,7 @@
 
 # This is a CTF
 
-For person conducting the CTF:
+<b>For person conducting the CTF:</b>
 
 1. Download the files from github.
 2. Make sure you have Python 3
@@ -14,7 +14,7 @@ pip3 install waitress
 4. Run the program:
 python3 server.py
 
-For people trying to solve the CTF, following is the procedure (psst... don't see before solving it, or check only if you are struck):
+<b>For people trying to solve the CTF, following is the procedure (psst... don't see before solving it, or check only if you are struck): </b>
 
 1. Run nmap on the server where the CTF is hosted:
 nmap -Pn -n --open -p- <hostname/IP of server> -oN tcp.txt
