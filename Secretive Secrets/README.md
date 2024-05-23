@@ -1,6 +1,6 @@
 # Secretive Secrets (CTF)
 
-# Program made with Python 3 by pr2h
+Program made with Python 3 by pr2h
 
 # For person conducting the CTF:</b>
 
