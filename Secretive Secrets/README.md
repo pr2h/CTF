@@ -8,8 +8,8 @@ For person conducting the CTF:
 
 1. Download the files from github.
 2. Make sure you have Python 3
-3. Install required libraries:
-pip3 install flask
+3. Install required libraries:<br>
+pip3 install flask<br>
 pip3 install waitress
 4. Run the program:
 python3 server.py
